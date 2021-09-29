@@ -3,8 +3,9 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Portfolio - Mateus Costa',
+  subtitle:
+    'Um portfólio com cara de blog pra contar minhas experiências na faculdades e escrever alguns posts técnicos',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,32 +13,28 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Página inicial',
       path: '/',
     },
     {
-      label: 'About me',
+      label: 'Sobre mim',
       path: '/pages/about',
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts',
     },
   ],
   author: {
     name: 'Mateus Rodrigues Costa',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Um portfólio com cara de blog pra contar minhas experiências na faculdades e escrever alguns posts técnicos',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'mateus-costa97',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
