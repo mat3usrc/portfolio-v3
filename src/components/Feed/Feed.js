@@ -37,7 +37,7 @@ const Feed = ({ edges }: Props) => (
         </h2>
         <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
         <Link className={styles['feed__item-readmore']} to={edge.node.fields.slug}>
-          Read
+          Ler mais
         </Link>
       </div>
     ))}

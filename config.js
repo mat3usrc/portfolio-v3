@@ -5,10 +5,10 @@ module.exports = {
   pathPrefix: '/',
   title: 'Portfolio - Mateus Costa',
   subtitle:
-    'Um portfólio com cara de blog pra contar minhas experiências na faculdades e escrever alguns posts técnicos',
+    'Um portfólio com cara de blog pra contar minhas experiências na faculdade e escrever alguns posts técnicos',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -24,7 +24,7 @@ module.exports = {
   author: {
     name: 'Mateus Rodrigues Costa',
     photo: '/photo.jpg',
-    bio: 'Um portfólio com cara de blog pra contar minhas experiências na faculdades e escrever alguns posts técnicos',
+    bio: 'Um portfólio com cara de blog pra contar minhas experiências na faculdade e escrever alguns posts técnicos',
     contacts: {
       email: '',
       facebook: '',
